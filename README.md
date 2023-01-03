@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- ⭐ You can find all my main projects inside my [Portfolio](link) repository
+- ⭐ Check out my [Portfolio](link) where you can find most of my projects
 
 - 📫 How to reach me: elisabetecostaupwork@gmail.com
 
