@@ -35,6 +35,9 @@
 ## Other Skills
 - Fluent English Speaker
 - Certified Microsoft Professional (Word, PowerPoint, Excel and Access)
+- Training in Digital Commerce and Social Media Management
+- Experienced Translator (English <-> Portuguese) and Virtual Assistant
+- Experience with Adobe Software (Photoshop, Illustrator, Premiere, After Effects and Character Animator)
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisabetecosta94/)
