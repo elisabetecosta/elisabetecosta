@@ -33,8 +33,8 @@
 <img align="center" alt="" src="">
 
 ## Other Skills
-- Fluent English Speaker
-- Certified Microsoft Professional (Word, PowerPoint, Excel and Access)
+- Fluent English Speaker (Level C1)
+- Certified Microsoft Office Specialist (Word, PowerPoint, Excel and Access)
 - Training in Digital Commerce and Social Media Management
 - Experienced Translator (English <-> Portuguese) and Virtual Assistant
 - Experience with Adobe Software (Photoshop, Illustrator, Premiere, After Effects and Character Animator)
