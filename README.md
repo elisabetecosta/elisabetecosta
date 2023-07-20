@@ -1,7 +1,5 @@
 <h1>Hi, I am Elisabete Costa</h1>
 
-<br>
-
 - 🔥 Full Stack Web Developer
 
 - ⚡ Always learning new things...
