@@ -1,10 +1,8 @@
 <h1>Hi, I am Elisabete Costa</h1>
 
-**🛠️ Still under construction 🛠️**
-
 <br>
 
-- 🔥 Junior Full Stack Web Developer
+- 🔥 Full Stack Web Developer
 
 - ⚡ Always learning new things...
 
