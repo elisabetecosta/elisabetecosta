@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- ⭐ Check out my [Portfolio](https://github.com/elisabetecosta/portfolio)
+- ⭐ Check out my [Portfolio](https://elisabetecosta.netlify.app/)
 
 - 📫 How to reach me: elisabetecostaupwork@gmail.com
 
