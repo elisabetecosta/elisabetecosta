@@ -4,8 +4,6 @@
 
 - ⚡ Always learning new things...
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
-
 - ⭐ Check out my [Portfolio](https://elisabetecosta.netlify.app/)
 
 <br>
