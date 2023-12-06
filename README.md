@@ -8,8 +8,6 @@
 
 - ⭐ Check out my [Portfolio](https://elisabetecosta.netlify.app/)
 
-- 📫 How to reach me: elisabetecostaupwork@gmail.com
-
 <br><br>
 
 ## Main technologies
