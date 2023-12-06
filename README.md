@@ -8,7 +8,7 @@
 
 - ⭐ Check out my [Portfolio](https://elisabetecosta.netlify.app/)
 
-<br><br>
+<br>
 
 ## Main technologies
 
